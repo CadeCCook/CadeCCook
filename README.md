@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CadeCCook
 - 👀 I’m interested in finding my first internship
-- 🌱 I’m currently attending UNC Charlotte as a freshman
+- 🌱 I’m currently attending UNC Charlotte as a junior
 - 💞️ I’m studing data science under a computer science major
 - 📫 To reach me contact either 704-999-9006 or Cman0614@icloud.com
 
